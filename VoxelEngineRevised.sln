@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxelEngineRevised", "VoxelEngineRevised\VoxelEngineRevised\VoxelEngineRevised.csproj", "{74A826F9-0E9F-4148-891B-98F261B499C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxelEngineRevisedContent", "VoxelEngineRevised\VoxelEngineRevisedContent\VoxelEngineRevisedContent.contentproj", "{9C773C43-DC14-4ADC-A73B-18852AB8DFB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A826F9-0E9F-4148-891B-98F261B499C7}.Debug|x86.ActiveCfg = Debug|x86
+		{74A826F9-0E9F-4148-891B-98F261B499C7}.Debug|x86.Build.0 = Debug|x86
+		{74A826F9-0E9F-4148-891B-98F261B499C7}.Release|x86.ActiveCfg = Release|x86
+		{74A826F9-0E9F-4148-891B-98F261B499C7}.Release|x86.Build.0 = Release|x86
+		{9C773C43-DC14-4ADC-A73B-18852AB8DFB2}.Debug|x86.ActiveCfg = Debug|x86
+		{9C773C43-DC14-4ADC-A73B-18852AB8DFB2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
